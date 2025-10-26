@@ -1,0 +1,24 @@
+{
+  "name": "playable-plinko",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "serve": "vite serve",
+    "test": "vite test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "matter-js": "^0.20.0",
+    "p5": "^2.0.5",
+    "vite": "^7.1.12"
+  },
+  "devDependencies": {
+    "vite-plugin-singlefile": "^2.3.0"
+  }
+}
